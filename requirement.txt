@@ -1,0 +1,19 @@
+# Core deep learning
+torch
+torchvision
+
+# Diffusion / Generative AI
+diffusers
+transformers
+accelerate
+safetensors
+
+# Web UI
+gradio
+
+# Image / data utilities
+Pillow
+numpy
+
+# Hugging Face authentication (optional but useful for gated/private models)
+huggingface_hub
